@@ -22,7 +22,7 @@ A synthetic dataset Electronics e-commerce is generated. The data represent the 
 
 ![Screenshot of Prompt 1](https://github.com/veselaDV/genAI-for-business-analysts/blob/main/prompts/prompt_1.jpg)
 
-A csv file containong the synthetic data can be found [here].(https://github.com/veselaDV/genAI-for-business-analysts/blob/main/sythetic_data_electronics_ecommerce.csv)
+A csv file containong the synthetic data can be found [here](https://github.com/veselaDV/genAI-for-business-analysts/blob/main/sythetic_data_electronics_ecommerce.csv).
 
 ## **Analyze Customer Data Using GenAI**
 
@@ -58,7 +58,7 @@ A csv file containong the synthetic data can be found [here].(https://github.com
 
 **Generated SQL code**
 
-The generated SQL code by ClaudeAI can be found [here].(https://github.com/veselaDV/genAI-for-business-analysts/blob/main/SQL_queries.sql)
+The generated SQL code by ClaudeAI can be found [here](https://github.com/veselaDV/genAI-for-business-analysts/blob/main/SQL_queries.sql).
 
 
 ## **Creating a Comprehensive Business Intelligence Dashboard**
@@ -86,13 +86,13 @@ The correlation between customer satisfaction, delivery times and reported issue
 ## **Key Insights and Recommendations** 
 
 **Insight:** Enhanced Battery Management System 
-**Recommendation:** Develop an intelligent battery management system. This system should be implemented across portable electronics categories and prominently featured in product listings as "Smart Battery Technology" with standardized metrics for battery performance that go beyond simple hours of use. 
-**Insight:** Unified Setup and Interface Framework 
-**Recommendation:** Create a standardized setup and interface experience. This unified approach would significantly reduce the learning curve across products and address the frustration evident in reviews about complex setup processes and inconsistent interfaces. 
-**Insight:** Durability Testing Program & Transparency Initiative 
-**Recommendation:** Establish a comprehensive durability enhancement program. This initiative addresses the significant impact that durability issues have on customer satisfaction and recommendation rates, while creating a competitive advantage through transparency about product longevity. 
-**Insight:** Design Ergonomics for Audio Devices 
-**Recommendation:** Enhanced ergonomic design with adjustable or customizable fit options. 
+- **Recommendation:** Develop an intelligent battery management system. This system should be implemented across portable electronics categories and prominently featured in product listings as "Smart Battery Technology" with standardized metrics for battery performance that go beyond simple hours of use. 
+- **Insight:** Unified Setup and Interface Framework 
+- **Recommendation:** Create a standardized setup and interface experience. This unified approach would significantly reduce the learning curve across products and address the frustration evident in reviews about complex setup processes and inconsistent interfaces. 
+- **Insight:** Durability Testing Program & Transparency Initiative 
+- **Recommendation:** Establish a comprehensive durability enhancement program. This initiative addresses the significant impact that durability issues have on customer satisfaction and recommendation rates, while creating a competitive advantage through transparency about product longevity. 
+- **Insight:** Design Ergonomics for Audio Devices 
+- **Recommendation:** Enhanced ergonomic design with adjustable or customizable fit options. 
 
 
 ## **Conclusion**
