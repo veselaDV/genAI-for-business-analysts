@@ -1,0 +1,101 @@
+user_id,product_category,product_name,purchase_date,satisfaction_score,review_text,reported_issue,would_recommend,delivery_days,price_range
+1,Smartphone,Galaxy X21,2025-01-05,4,"Great phone, battery lasts all day and camera quality is impressive. Interface could be more intuitive.",Minor software bugs,TRUE,3,$500-$750
+2,Laptop,ProBook Air,2025-01-10,2,"Overheats constantly and keyboard started malfunctioning after just two weeks of use.",Hardware failure,FALSE,5,$1000-$1500
+3,Headphones,SoundWave Pro,2025-01-12,5,"Best headphones I've ever owned! Noise cancellation is perfect for my daily commute.",None,TRUE,2,$200-$300
+4,Smart TV,ClearView 55",2025-01-15,3,"Picture quality is good but the smart interface lags frequently.",Interface lag,FALSE,7,$400-$600
+5,Tablet,SlateTab 10,2025-01-18,4,"Perfect for reading and light work. Wish it had better speakers.",Audio quality issues,TRUE,3,$300-$500
+6,Smartwatch,FitTrack Elite,2025-01-20,5,"Tracks all my activities accurately and battery lasts for days!",None,TRUE,2,$150-$250
+7,Camera,PhotoMaster X3,2025-01-22,3,"Good image quality but complicated menu system makes it hard to use.",Confusing interface,TRUE,4,$600-$800
+8,Gaming Console,GameStation 5,2025-01-25,5,"Amazing graphics and game selection. No complaints!",None,TRUE,3,$400-$600
+9,Wireless Earbuds,AirDots Mini,2025-01-28,2,"Uncomfortable fit and poor battery life. Disappointed.",Fit and battery issues,FALSE,2,$100-$150
+10,Desktop PC,PowerTower Pro,2025-01-30,4,"Fast performance for work and gaming. Fan is a bit loud under heavy load.",Noise issues,TRUE,5,$1200-$1800
+11,Router,SpeedConnect X,2025-02-02,3,"Decent range but occasional connection drops.",Connectivity issues,TRUE,3,$80-$150
+12,External Hard Drive,StorageMax 2TB,2025-02-05,5,"Fast, reliable, and compact. Exactly what I needed.",None,TRUE,2,$100-$200
+13,Monitor,UltraView 27",2025-02-08,4,"Great colors and resolution. Stand could be more adjustable.",Limited ergonomics,TRUE,4,$250-$400
+14,Keyboard,MechType Pro,2025-02-10,5,"Typing feels amazing! Love the tactile feedback.",None,TRUE,2,$100-$200
+15,Bluetooth Speaker,SoundBox Mini,2025-02-12,2,"Battery drains even when not in use. Sound quality is mediocre.",Battery drain issues,FALSE,3,$50-$100
+16,Smart Home Hub,HomeControl Center,2025-02-15,3,"Works with most of my devices but setup was frustrating.",Setup difficulty,TRUE,4,$150-$250
+17,Fitness Tracker,HealthBand Lite,2025-02-18,4,"Accurate tracking and comfortable to wear. App could use improvements.",App limitations,TRUE,2,$80-$150
+18,VR Headset,RealityDive Pro,2025-02-20,5,"Incredible immersive experience! Worth every penny.",None,TRUE,5,$300-$500
+19,Drone,SkyView Explorer,2025-02-22,3,"Good flight time but camera stabilization needs improvement.",Camera stabilization,TRUE,6,$200-$400
+20,E-reader,BookLight 7,2025-02-25,5,"Perfect reading experience with great battery life and screen.",None,TRUE,3,$120-$200
+21,Smartphone,iPhone Pro 16,2025-02-28,4,"Beautiful design and smooth performance. Price is too high though.",Overpriced,TRUE,2,$800-$1200
+22,Laptop,UltraBook X5,2025-03-02,2,"Constant blue screens and poor customer support.",System crashes,FALSE,4,$900-$1400
+23,Headphones,BassMaster Studio,2025-03-05,4,"Great sound quality but a bit heavy for long sessions.",Comfort issues,TRUE,3,$150-$250
+24,Smart TV,HomeTheater 65",2025-03-08,5,"Incredible picture quality and smooth smart features!",None,TRUE,8,$700-$1000
+25,Tablet,DigiPad Air,2025-03-10,3,"Decent performance but screen scratches too easily.",Durability concerns,FALSE,2,$200-$400
+26,Smartwatch,LifeTrack Sport,2025-03-12,4,"Good fitness features but battery needs daily charging.",Battery life issues,TRUE,3,$120-$200
+27,Camera,QuickShot Pro,2025-03-15,5,"Amazing image quality and intuitive controls!",None,TRUE,4,$500-$800
+28,Gaming Console,PlayBox One,2025-03-18,3,"Good game selection but system frequently overheats.",Overheating,TRUE,3,$350-$550
+29,Wireless Earbuds,SoundPods Pro,2025-03-20,2,"Lost connection frequently and poor mic quality.",Connectivity issues,FALSE,2,$80-$150
+30,Desktop PC,WorkStation Elite,2025-03-22,5,"Lightning fast and runs all my software perfectly!",None,TRUE,7,$1500-$2000
+31,Router,NetMaster X5,2025-03-25,4,"Great coverage throughout my house. Setup was a bit complex.",Complex setup,TRUE,3,$120-$200
+32,External Hard Drive,DataBank 4TB,2025-03-28,3,"Works fine but makes odd clicking noises occasionally.",Noise issues,TRUE,2,$150-$250
+33,Monitor,GamingView 32",2025-04-01,5,"Perfect for gaming with great refresh rate and colors!",None,TRUE,5,$300-$500
+34,Keyboard,SilentType Pro,2025-04-03,4,"Very quiet and responsive. Some keys feel inconsistent.",Key consistency issues,TRUE,2,$80-$150
+35,Bluetooth Speaker,PartySound Max,2025-04-05,2,"Distorts at high volume and bluetooth range is poor.",Sound quality issues,FALSE,3,$100-$200
+36,Smart Home Hub,ConnectAll Plus,2025-04-08,4,"Works well with all my devices after the initial setup.",Initial setup issues,TRUE,4,$180-$280
+37,Fitness Tracker,FitPro Advanced,2025-04-10,5,"Tracks everything I need and battery lasts over a week!",None,TRUE,2,$150-$250
+38,VR Headset,VirtualWorld One,2025-04-12,3,"Good experience but causes motion sickness after short use.",Motion sickness,TRUE,4,$250-$450
+39,Drone,FlyCam Mini,2025-04-15,4,"Easy to fly and good camera quality. Wind stability could be better.",Wind stability issues,TRUE,3,$150-$300
+40,E-reader,ReadMaster Pro,2025-04-18,5,"Perfect reading experience with adjustable lighting!",None,TRUE,2,$150-$250
+41,Smartphone,TechPhone Ultra,2025-04-20,3,"Good features but battery drains too quickly.",Battery life issues,TRUE,4,$400-$700
+42,Laptop,CreatorBook Pro,2025-04-22,5,"Perfect for video editing with amazing performance!",None,TRUE,5,$1200-$1800
+43,Headphones,ComfortSound Elite,2025-04-25,2,"Uncomfortable for long periods and mediocre sound.",Comfort issues,FALSE,2,$100-$200
+44,Smart TV,PremiumView 50",2025-04-28,4,"Great picture quality and smart features. Remote feels cheap.",Remote quality issues,TRUE,6,$500-$800
+45,Tablet,ProSlate 12,2025-05-01,3,"Good screen but processor struggles with demanding apps.",Performance issues,FALSE,3,$350-$550
+46,Smartwatch,SmartLife Plus,2025-05-03,5,"Tracks health metrics accurately and looks professional!",None,TRUE,2,$200-$300
+47,Camera,SnapPro Digital,2025-05-05,4,"Great image quality but battery life could be improved.",Battery life issues,TRUE,3,$400-$700
+48,Gaming Console,GameCube Pro,2025-05-08,2,"Frequent system crashes and loud fan noise.",System stability issues,FALSE,4,$300-$500
+49,Wireless Earbuds,TinySound X,2025-05-10,4,"Great sound and fit but case scratches easily.",Case durability issues,TRUE,2,$120-$200
+50,Desktop PC,CreativeStation X7,2025-05-12,5,"Handles all my design work flawlessly!",None,TRUE,6,$1800-$2500
+51,Router,HomeNet Pro,2025-05-15,3,"Average performance with some dead zones in my house.",Coverage issues,TRUE,3,$100-$180
+52,External Hard Drive,SecureStore 5TB,2025-05-18,4,"Fast and reliable. Software interface is a bit dated.",Software interface issues,TRUE,2,$180-$280
+53,Monitor,WorkView 24",2025-05-20,5,"Perfect for office work with great eye comfort features!",None,TRUE,4,$200-$350
+54,Keyboard,GamerType RGB,2025-05-22,3,"RGB lighting is nice but keys started sticking after a month.",Key sticking issues,FALSE,3,$120-$200
+55,Bluetooth Speaker,OutdoorSound Plus,2025-05-25,4,"Great for outdoor use but battery indicator is inaccurate.",Battery indicator issues,TRUE,2,$120-$220
+56,Smart Home Hub,SmartControl Center,2025-05-28,2,"Frequent disconnections and limited device compatibility.",Compatibility issues,FALSE,4,$160-$260
+57,Fitness Tracker,ActiveBand Pro,2025-06-01,5,"Tracks all activities accurately and app is intuitive!",None,TRUE,3,$130-$230
+58,VR Headset,ImmersePro X2,2025-06-03,4,"Great immersion but headset is a bit heavy for long sessions.",Weight issues,TRUE,5,$350-$550
+59,Drone,SkyMaster 4K,2025-06-05,3,"Good camera quality but battery life is too short.",Battery life issues,TRUE,7,$300-$500
+60,E-reader,PageTurn Deluxe,2025-06-08,5,"Excellent screen with perfect lighting for night reading!",None,TRUE,2,$180-$280
+61,Smartphone,FastPhone Pro,2025-06-10,4,"Snappy performance and good camera. Fingerprint scanner is unreliable.",Fingerprint scanner issues,TRUE,3,$600-$900
+62,Laptop,ThinBook Air,2025-06-12,2,"Too many quality control issues. Screen has dead pixels.",Display defects,FALSE,4,$800-$1300
+63,Headphones,NoiseBlock Elite,2025-06-15,5,"Best noise cancellation I've experienced!",None,TRUE,2,$250-$400
+64,Smart TV,SmartScreen 70",2025-06-18,3,"Picture quality is good but smart features are sluggish.",Interface performance issues,FALSE,9,$800-$1200
+65,Tablet,QuickTab Mini,2025-06-20,4,"Perfect size for portability. Screen could be brighter outdoors.",Screen brightness issues,TRUE,2,$200-$350
+66,Smartwatch,HealthMonitor Pro,2025-06-22,5,"Accurate health tracking and great battery life!",None,TRUE,3,$180-$280
+67,Camera,ProShot DSLR,2025-06-25,3,"Good image quality but autofocus is slow and unreliable.",Autofocus issues,TRUE,4,$600-$900
+68,Gaming Console,UltraGame X,2025-06-28,4,"Great game performance but downloads are slow.",Download speed issues,TRUE,3,$450-$650
+69,Wireless Earbuds,MiniSound Pro,2025-07-01,2,"Poor fit and battery life much shorter than advertised.",Fit and battery issues,FALSE,2,$90-$170
+70,Desktop PC,GamingTower Ultra,2025-07-03,5,"Handles all games at max settings without breaking a sweat!",None,TRUE,8,$2000-$3000
+71,Router,SignalMax Pro,2025-07-05,4,"Great range and speed. App could be more user-friendly.",App usability issues,TRUE,3,$150-$250
+72,External Hard Drive,TravelDrive 1TB,2025-07-08,3,"Works fine but transfer speeds slower than expected.",Transfer speed issues,TRUE,2,$80-$150
+73,Monitor,CurvedView 34",2025-07-10,5,"Immersive curved display perfect for productivity!",None,TRUE,5,$400-$600
+74,Keyboard,ErgoType Pro,2025-07-12,4,"Very comfortable for long typing sessions. A bit noisy.",Noise issues,TRUE,2,$100-$180
+75,Bluetooth Speaker,BassBoost Mini,2025-07-15,2,"Battery died after two months of light use.",Battery failure,FALSE,3,$70-$140
+76,Smart Home Hub,VoiceControl Plus,2025-07-18,4,"Voice recognition works well even in noisy environments.",None,TRUE,4,$170-$270
+77,Fitness Tracker,SportBand 3,2025-07-20,3,"Tracks steps accurately but heart rate monitor is inconsistent.",Heart rate accuracy issues,TRUE,2,$90-$170
+78,VR Headset,MetaWorld Pro,2025-07-22,5,"Most comfortable VR headset with amazing visuals!",None,TRUE,4,$400-$600
+79,Drone,FoldableFlyer Max,2025-07-25,4,"Easy to transport and good flight stability. Camera could be better.",Camera quality issues,TRUE,3,$200-$400
+80,E-reader,LightRead 8,2025-07-28,5,"Perfect for reading with great battery life!",None,TRUE,2,$140-$240
+81,Smartphone,PowerPhone 5G,2025-08-01,3,"5G connectivity is spotty and causes battery drain.",Connectivity issues,FALSE,4,$500-$800
+82,Laptop,BusinessBook Pro,2025-08-03,5,"Perfect for work with great keyboard and battery life!",None,TRUE,3,$1100-$1600
+83,Headphones,StudioSound Max,2025-08-05,4,"Great sound quality but ear cushions wear out quickly.",Durability concerns,TRUE,2,$200-$350
+84,Smart TV,ConnectView 60",2025-08-08,2,"Smart features stopped working after software update.",Software issues,FALSE,7,$600-$900
+85,Tablet,DrawPad Pro,2025-08-10,5,"Perfect for digital art with responsive stylus!",None,TRUE,3,$400-$700
+86,Smartwatch,ConnectWatch 4,2025-08-12,3,"Good features but screen scratches too easily.",Durability concerns,TRUE,2,$150-$250
+87,Camera,TravelShot Compact,2025-08-15,4,"Perfect travel camera. Zoom could be better.",Zoom quality issues,TRUE,3,$300-$500
+88,Gaming Console,RetroPlay Classic,2025-08-18,5,"Great collection of games and seamless performance!",None,TRUE,4,$250-$400
+89,Wireless Earbuds,WorkPods Pro,2025-08-20,2,"Microphone picks up too much background noise for calls.",Microphone quality issues,FALSE,2,$100-$180
+90,Desktop PC,OfficeStation Pro,2025-08-22,4,"Great for productivity. Would prefer more USB ports.",Port limitations,TRUE,5,$900-$1400
+91,Router,MeshNet System,2025-08-25,5,"Perfect coverage throughout my large house!",None,TRUE,3,$200-$350
+92,External Hard Drive,RuggedBackUp 3TB,2025-08-28,3,"Works well but runs hot when transferring large files.",Heat issues,TRUE,2,$130-$230
+93,Monitor,ColorPro 27",2025-09-01,5,"Amazing color accuracy for design work!",None,TRUE,4,$350-$550
+94,Keyboard,QuietType Mini,2025-09-03,4,"Compact and quiet. Some special characters are hard to access.",Layout issues,TRUE,2,$70-$140
+95,Bluetooth Speaker,WaterProof Ultra,2025-09-05,3,"Good for outdoor use but pairing is sometimes problematic.",Connectivity issues,TRUE,3,$120-$220
+96,Smart Home Hub,SecurityCenter Pro,2025-09-08,5,"Integrates perfectly with all my security devices!",None,TRUE,4,$200-$300
+97,Fitness Tracker,SleepMonitor Plus,2025-09-10,4,"Great sleep tracking but wristband causes skin irritation.",Wristband irritation issues,TRUE,2,$100-$180
+98,VR Headset,GameVision Pro,2025-09-12,2,"Software is buggy and frequently crashes during use.",Software stability issues,FALSE,5,$300-$500
+99,Drone,ProFilm Aerial,2025-09-15,5,"Professional quality footage and excellent controls!",None,TRUE,6,$500-$800
+100,E-reader,PaperView Touch,2025-09-18,4,"Great reading experience but touchscreen occasionally lags.",Touchscreen responsiveness issues,TRUE,3,$160-$260
